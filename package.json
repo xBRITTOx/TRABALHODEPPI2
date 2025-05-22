@@ -1,0 +1,24 @@
+{
+  "name": "trabalhodeppi2",
+  "version": "1.0.0",
+  "description": "Trabalho de PPI validação de campos, login e exit",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xBRITTOx/TRABALHODEPPI2.git"
+  },
+  "author": "Cristiano Ferreira da Silva Brito",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xBRITTOx/TRABALHODEPPI2/issues"
+  },
+  "homepage": "https://github.com/xBRITTOx/TRABALHODEPPI2#readme",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
